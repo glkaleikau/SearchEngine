@@ -1,3 +1,4 @@
 # Project
 
-The project is broken into two separate GitHub repositories and Eclipse Java projects. 
+The Back-End of the search engine can be found in the java folder.
+The Front-End code would go into the HTML file.
